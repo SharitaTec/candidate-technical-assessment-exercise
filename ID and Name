@@ -1,1 +1,5 @@
+git status
+git add. "git ID and Name"
+git commit -m "add $.BruceWayne.Name" -m "add $.Bruce.Name" -m "add $.Bru.Name"
+git push
 

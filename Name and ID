@@ -1,0 +1,10 @@
+-a -m "Bruce, Wayne, bru,Wayne, Bruce" <Name>
+git committ -m "add README.md" -m "add Name and ID" -m "add $Bruce Wayne.Name" -m "add $.bru.Name" -m "add $.Bruce.Nma "add $.bru.Name" -m "add $.Bruce.Nmae" -m "add $.Wayne.Name
+git -m "add README.md"
+-m "add $Bruce Wayne.Name"
+-m "add $.bru.Name" 
+-m "add $.Bruce.Name"
+-m"add $.bru.Name" 
+-m "add $.Bruce.Name" 
+-m "add $.Wayne.Name
+git push -Bruce Wayne 

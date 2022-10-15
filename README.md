@@ -18,3 +18,9 @@ Write the code for a Web Service that provides two possible operations for a cli
 * Both the input and output of the operations should be formatted in JSON.
 * Unit tests for the provided code are written
 * **Bonus:** Leverage dependency injection
+* Name: GitHub Authentication
+Id: vscode.github-authentication
+Description: GitHub Authentication Provider
+Version: 0.0.2
+Publisher: vscode
+
